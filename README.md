@@ -13,4 +13,4 @@ The code provided is divided in three packages:
 
 If you use this software in a scientific work, please reference the following paper:
 
-Miquel Esplà-Gomis, Felipe Sánchez-Martínez, and Mikel L. Forcada. (2015). Using Machine Translation to Provide Target-Language Edit Hints in Computer Aided Translation Based on Translation Memories. In Journal of Artificial Intelligence Research, volume 53, p. 169–222.
+Miquel Esplà-Gomis, Felipe Sánchez-Martínez, and Mikel L. Forcada. (2015). **Using Machine Translation to Provide Target-Language Edit Hints in Computer Aided Translation Based on Translation Memories**. In *Journal of Artificial Intelligence Research*, volume 53, p. 169–222.
