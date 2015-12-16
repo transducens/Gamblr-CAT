@@ -1,0 +1,56 @@
+<record>
+  <date>2015-12-04T12:26:51</date>
+  <millis>1449228411824</millis>
+  <sequence>36</sequence>
+  <level>300</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2015-12-04T12:26:51</date>
+  <millis>1449228411856</millis>
+  <sequence>37</sequence>
+  <level>300</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2015-12-04T12:26:51</date>
+  <millis>1449228411856</millis>
+  <sequence>38</sequence>
+  <level>700</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2015-12-04T12:27:07</date>
+  <millis>1449228427134</millis>
+  <sequence>33</sequence>
+  <level>300</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2015-12-04T12:27:07</date>
+  <millis>1449228427136</millis>
+  <sequence>34</sequence>
+  <level>300</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2015-12-04T12:27:07</date>
+  <millis>1449228427136</millis>
+  <sequence>35</sequence>
+  <level>700</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>

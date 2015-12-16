@@ -1,0 +1,19 @@
+INTRODUCTION
+This tool is designed to perform the experiments reported in the paper
+"Using word alignments to assist computer-aided translation
+users by marking which target-side words to change or keep unedited",
+submitted to the ACL-HTL'11 short papers.
+
+It tests a new method to improve computer-aided translation systems
+based on translation memory (TM) by using pre-computed word alignments
+between the source and target segments in the translation units
+(TUs) of the user's TM. When a new segment is to be translated by
+the CAT user, our approach uses the word alignments in the matching
+TUs to mark the words that should be changed or kept unedited to
+transform the proposed translation into an adequate translation.
+
+BUILDING THE APPLICATION
+This package includes a build.xml file which is read by the tool "ant"
+which automatically build the GizaWKRecommen.jar package and the javadoc
+documentation. Both elements are placed at the directory "dist" by executing
+the command.
