@@ -65,7 +65,9 @@ public class Word implements Serializable{
             code=(Integer)word_map.get(s);
         else{
             code=word_map.size();
-            word_map.put(s, word_map.size());
+            synchronized(word_map){
+                word_map.put(s, word_map.size());
+            }
         }
     }
 
@@ -79,7 +81,9 @@ public class Word implements Serializable{
             code=(Integer)word_map.get(this.word);
         else{
             code=word_map.size();
-            word_map.put(this.word, word_map.size());
+            synchronized(word_map){
+                word_map.put(this.word, word_map.size());
+            }
         }
     }
 
@@ -93,7 +97,9 @@ public class Word implements Serializable{
             code=(Integer)word_map.get(s);
         else{
             code=word_map.size();
-            word_map.put(s, word_map.size());
+            synchronized(word_map){
+                word_map.put(s, word_map.size());
+            }
         }
     }
 
